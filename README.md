@@ -14,16 +14,6 @@ This pack of __100+__ gopher pictures and elements will help you to build own de
 1. Telegram - [Free Gophers Pack](https://t.me/addstickers/Free_Gophers_Pack)
 
 
-## Shop
-
-![alt](/preview/shop_presentation.png)
-
-
-If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you can buy them with delivery to any place around the world:  
-✨👉 https://gophers.threadless.com/ 👈✨
-
-  Of course there are some nice deals in the shop, for example free shipping and so on.
-
 ## Contents
 
 0. [Examples](/examples/)
@@ -48,18 +38,3 @@ All illustrations are available in vector and raster formats on transparent back
 Thanks to Go community for all your kind words and warm support!
 
 This package is now licensed as __CC0 (public domain)__ so you can use the images in any way with no restrictions.
-
-## My other projects
-
-If you liked this project, you may also want to see [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack).
-
-## About me
-
-My name is __Maria Letta__, I am a professional illustrator and graphic designer, some of my works can be found here:  
-🦄 instagram  https://instagram.com/maria_letta_art    
-🎨 creativemarket  https://creativemarket.com/Maria_Letta  
-
-Drop me an email, if you have any questions or suggestions:  
-✉ designbyletta@gmail.com
-
-![alt](/examples/6.png)
